@@ -153,10 +153,9 @@ I learned how to transform a problem into a system and use AI-powered tools to d
 
 **Type:** Guided Project
 
-🔗 [View Project]((https://pixel-perfect-forge-325.lovable.app))
+🔗 [View Project](https://pixel-perfect-forge-325.lovable.app/)
 
-#### 02 — [Independent Project Name]
-
+#### 02 — Independent Project Name
 **Type:** Independent Project
 
 🔗 [View Project](./02-build-the-system/independent-project)
