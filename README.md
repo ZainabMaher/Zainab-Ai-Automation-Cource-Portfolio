@@ -149,11 +149,11 @@ I learned how to transform a problem into a system and use AI-powered tools to d
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — SkillBridge Lite
 
 **Type:** Guided Project
 
-🔗 [View Project](./02-build-the-system/course-project)
+🔗 [View Project]([./02-build-the-system/course-project](https://preview--exact-render-studio-47.lovable.app/?__lovable_receipt=mat_327874etcz88yryxmg2gkx4sra))
 
 #### 02 — [Independent Project Name]
 
