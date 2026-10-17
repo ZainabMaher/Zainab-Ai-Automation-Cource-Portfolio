@@ -8,41 +8,42 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **[Your Name]**.
+Hi, I'm Zainab Alsersawi, a Multimedia student and Graphic Designer from Gaza, Palestine.
 
-I am a **[Your Professional Title]** interested in building AI-powered solutions that solve real-world problems and create meaningful impact.
+My background is in visual communication, graphic design, and creative problem-solving. I'm passionate about exploring how Artificial Intelligence and automation can transform ideas into practical solutions that solve real-world problems.
 
-Through this portfolio, I document the systems and solutions I design and build throughout my AI Automation journey.
+I'm currently developing my skills in AI automation, AI-powered application building, workflow design, and AI agents. My goal is to combine my creative background with technical thinking to build useful, accessible, and human-centered digital solutions.
 
+I believe AI is not just a tool for generating content. It can also help us design better systems, reduce repetitive work, organize information, and make technology more useful.
 ### My Focus
 
-- AI Automation
-- AI-Powered Solutions
-- Workflow Automation
-- AI Applications
+-  Graphic Design & Visual Communication
+-  Creative Design & Digital Art
+- AI Automation & Intelligent Workflows
+- System Integration & No-Code Solutions
 - AI Agents
-- Human-Centered Technology
+- Creative Problem-Solving & Human-Centered Technology
 
 ### Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: https://www.linkedin.com/in/zainab-maher-2211553b6/
 - 🌐 Portfolio: [Your Portfolio]
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [Your GitHub]
+- 📧 Email: zainab.maher.alsersawi@gmail.com
+- 🐙 GitHub: https://github.com/ZainabMaher
 
 ---
 
 # 🧠 My Engineering Philosophy
 
-> **We don't teach AI to build everything for us.**
->
-> **We learn to understand, design, direct, evaluate, and improve what AI builds.**
+I don't use AI just to generate solutions. I use it to understand problems, design systems, evaluate results, and improve what I build.
 
-My approach throughout this portfolio is:
+My approach is:
 
-**Understand → Design → Build → Debug → Explain → Improve**
+Understand → Design → Build → Debug → Test → Explain → Improve
 
----
+I believe that working with AI requires more than writing prompts. It requires understanding the problem, making thoughtful design decisions, checking whether the solution works, and knowing when human judgment is necessary.
+
+My background in design helps me consider not only how a system works, but also how people experience and interact with it.
 
 # 🎯 Portfolio Overview
 
