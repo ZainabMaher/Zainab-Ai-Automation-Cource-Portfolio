@@ -133,6 +133,7 @@ I learned how to understand real-world work, decompose processes, identify input
 
 #### 02 — Library Borrowing & Reservation Tracker
 
+A library management automation system for handling book borrowing, reservations, and returns. Members submit requests in natural language through Google Forms, which are interpreted by AI. The system then checks the book’s availability and applies predefined business rules to make the appropriate decision. Records are updated, and email notifications are sent automatically. If an issue arises, the request is escalated to the librarian for review.
 **Type:** Independent Project
 
 🔗 [View Project]((https://github.com/ZainabMaher/ai-automation-course/tree/main/01-Process%20%26%20Data%20Thinking/Nova-Project/Library))
@@ -178,11 +179,15 @@ I learned how to test AI-powered systems, identify failures, evaluate outputs, a
 
 🔗 [View Project]([./03-prove-it-works/course-project](https://pixel-perfect-forge-325.lovable.app))
 
-#### 02 — [Independent Project Name]
+#### 02 — Concept Atlas
+
+Concept Atlas is an interactive visual thinking workspace that allows users to create freeform maps to organize ideas, information, and different types of entities, connecting them through meaningful relationships. Ideas, concepts, books, people, projects, and more can be represented as independent elements on an open canvas, with customizable details and flexible connections—without the hierarchical restrictions of traditional mind maps.
+
+The project aims to transform scattered information into an interconnected network that helps users discover patterns, understand relationships, develop ideas, and organize knowledge in a flexible and creative way.
 
 **Type:** Independent Project
 
-🔗 [View Project](./03-prove-it-works/independent-project)
+🔗 [View Project]([./03-prove-it-works/independent-project](https://visual-style-snapshot.lovable.app))
 
 ---
 
@@ -200,7 +205,7 @@ I learned how AI systems can work with external knowledge and how to design solu
 
 **Type:** Guided Project
 
-🔗 [View Project](./04-ground-its-knowledge/course-project)
+🔗 [View Project]([./04-ground-its-knowledge/course-project](https://udify.app/chat/qMkPOOzbJdKz8VMC))
 
 #### 02 — [Independent Project Name]
 
