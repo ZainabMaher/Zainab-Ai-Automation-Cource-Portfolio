@@ -177,7 +177,7 @@ I learned how to test AI-powered systems, identify failures, evaluate outputs, a
 
 **Type:** Guided Project
 
-🔗 [View Project](./03-prove-it-works/course-project](https://pixel-perfect-forge-325.lovable.app)
+🔗 [View Project](https://pixel-perfect-forge-325.lovable.app)
 
 #### 02 — Concept Atlas
 
