@@ -177,7 +177,7 @@ I learned how to test AI-powered systems, identify failures, evaluate outputs, a
 
 **Type:** Guided Project
 
-🔗 [View Project]([./03-prove-it-works/course-project](https://pixel-perfect-forge-325.lovable.app))
+🔗 [View Project](./03-prove-it-works/course-project](https://pixel-perfect-forge-325.lovable.app)
 
 #### 02 — Concept Atlas
 
@@ -187,7 +187,7 @@ The project aims to transform scattered information into an interconnected netwo
 
 **Type:** Independent Project
 
-🔗 [View Project]([./03-prove-it-works/independent-project](https://visual-style-snapshot.lovable.app))
+🔗 [View Project](https://visual-style-snapshot.lovable.app)
 
 ---
 
@@ -205,7 +205,7 @@ I learned how AI systems can work with external knowledge and how to design solu
 
 **Type:** Guided Project
 
-🔗 [View Project]([./04-ground-its-knowledge/course-project](https://udify.app/chat/qMkPOOzbJdKz8VMC))
+🔗 [View Project](https://udify.app/chat/qMkPOOzbJdKz8VMC)
 
 #### 02 — [Independent Project Name]
 
