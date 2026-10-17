@@ -136,7 +136,7 @@ I learned how to understand real-world work, decompose processes, identify input
 A library management automation system for handling book borrowing, reservations, and returns. Members submit requests in natural language through Google Forms, which are interpreted by AI. The system then checks the book’s availability and applies predefined business rules to make the appropriate decision. Records are updated, and email notifications are sent automatically. If an issue arises, the request is escalated to the librarian for review.
 **Type:** Independent Project
 
-🔗 [View Project]((https://github.com/ZainabMaher/ai-automation-course/tree/main/01-Process%20%26%20Data%20Thinking/Nova-Project/Library))
+🔗 [View Project](https://github.com/ZainabMaher/ai-automation-course/tree/main/01-Process%20%26%20Data%20Thinking/Nova-Project/Library)
 
 ---
 
