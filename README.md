@@ -135,7 +135,7 @@ I learned how to understand real-world work, decompose processes, identify input
 
 **Type:** Independent Project
 
-🔗 [View Project]([./01-process-and-data/independent-project](https://github.com/ZainabMaher/ai-automation-course/tree/main/01-Process%20%26%20Data%20Thinking/Nova-Project/Library))
+🔗 [View Project]((https://github.com/ZainabMaher/ai-automation-course/tree/main/01-Process%20%26%20Data%20Thinking/Nova-Project/Library))
 
 ---
 
@@ -153,7 +153,7 @@ I learned how to transform a problem into a system and use AI-powered tools to d
 
 **Type:** Guided Project
 
-🔗 [View Project]([./02-build-the-system/independent-project](https://pixel-perfect-forge-325.lovable.app))
+🔗 [View Project]((https://pixel-perfect-forge-325.lovable.app))
 
 #### 02 — [Independent Project Name]
 
