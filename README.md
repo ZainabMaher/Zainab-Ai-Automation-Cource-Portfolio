@@ -129,7 +129,7 @@ I learned how to understand real-world work, decompose processes, identify input
 
 **Type:** Guided Project
 
-🔗 [View Project](./01-process-and-data/course-project)
+🔗 [View Project](https://drive.google.com/file/d/1oA-KHgSWEClw4MjnA38Y1wEtMJsdRlAh/view?usp=drive_link)
 
 #### 02 — [Independent Project Name]
 
