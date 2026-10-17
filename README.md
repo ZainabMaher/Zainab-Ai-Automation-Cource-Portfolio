@@ -131,11 +131,11 @@ I learned how to understand real-world work, decompose processes, identify input
 
 🔗 [View Project](https://drive.google.com/file/d/1oA-KHgSWEClw4MjnA38Y1wEtMJsdRlAh/view?usp=drive_link)
 
-#### 02 — [Independent Project Name]
+#### 02 — Library Borrowing & Reservation Tracker
 
 **Type:** Independent Project
 
-🔗 [View Project](./01-process-and-data/independent-project)
+🔗 [View Project]([./01-process-and-data/independent-project](https://github.com/ZainabMaher/ai-automation-course/tree/main/01-Process%20%26%20Data%20Thinking/Nova-Project/Library))
 
 ---
 
