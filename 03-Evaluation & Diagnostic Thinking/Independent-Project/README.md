@@ -220,19 +220,12 @@ Interactive Canvas / High-Resolution PNG / Portable JSON Export
 
 ### Final Result
 
-An infinite visual workspace in English and Arabic, with light / dark themes, full node type palettes, customizable board backgrounds, and unified account management.
-
-![Final Result](Screenshots
-/Final_Result_Atlas.png
-)
-
+![Final Result](Screenshots/Final_Result_Atlas.png)
 ### Workflow
 
 `Add Element` → `Define Archetype & Details` → `Connect & Assign Relationship` → `Automatic Local / Cloud Save` → `Export`
 
-![Workflow](Screenshots
-/workflow.png
-)
+| **Workflow** | [View workflow](Screenshots/workflow.png) |
 
 ---
 
@@ -283,7 +276,7 @@ If I continued developing this project, I would:
 
 <div align="center">
 
-**Saja Saja**
+**Zainab Maher**
 
 [LinkedIn](https://www.linkedin.com/in/zainab-maher-2211553b6/) · [GitHub](https://github.com/ZainabMaher)
 
