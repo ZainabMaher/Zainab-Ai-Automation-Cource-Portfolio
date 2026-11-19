@@ -208,7 +208,6 @@ An AI fit analysis with three sections:
 | Tool | Purpose |
 |---|---|
 | **Lovable** | Building the web app from natural-language specifications, step by step |
-| **AI model:** `[model / Lovable AI feature you used]` | Generating the fit analysis |
 | **App state / browser storage** | Keeping the profile data and edits without a database |
 | **Built-in sample data** | The three opportunities and the sample analysis |
 
@@ -250,7 +249,6 @@ An AI fit analysis with three sections:
 |---|---|
 | **Input** | A profile with skills and projects that relate to the selected opportunity, then click **Analyze My Fit**. |
 | **Expected Result** | The related skills appear under Relevant Skills, and every item comes from the profile. No invented skills. |
-| **Actual Result** | `[write what happened]` |
 | **Status** | ✅ / ❌ |
 
 ### Test 2 — Profile with little information
@@ -259,7 +257,6 @@ An AI fit analysis with three sections:
 |---|---|
 | **Input** | A profile with only one or two skills and no projects, analyzed against the same opportunity. |
 | **Expected Result** | Missing requirements appear under Potential Gaps as "not enough information", not as "the user does not have this skill". No hiring prediction. |
-| **Actual Result** | `[write what happened]` |
 | **Status** | ✅ / ❌ |
 
 ### Test 3 — Editing the profile
@@ -268,36 +265,13 @@ An AI fit analysis with three sections:
 |---|---|
 | **Input** | Add a new skill in My Profile, save, then run the analysis again. |
 | **Expected Result** | The edit is saved and the new analysis uses the updated profile. |
-| **Actual Result** | `[write what happened]` |
 | **Status** | ✅ / ❌ |
 
 ---
 
-## 📸 Evidence
-
-### Final Result
-
-![Final Result](screenshots/final-result.png)
-
-### Workflow
-
-![Workflow](screenshots/workflow.png)
-
 ---
 
-## ⚠️ Challenges & Failures
 
-**What didn't work as expected?**
-
-- `[challenge 1]`
-- `[challenge 2]`
-
-**How did I solve it?**
-
-- `[solution 1]`
-- `[solution 2]`
-
----
 
 ## 📚 What I Learned
 
@@ -323,10 +297,9 @@ If I continued developing this project, I would:
 
 | | |
 |---|---|
-| **Live Demo** | `[https://pixel-perfect-forge-325.lovable.app]` |
-| **Workflow** | `[Link]` |
-| **Repository** | `[Link]` |
-
+| **Live Demo** | [Open the app](https://preview--exact-render-studio-47.lovable.app/) |
+| **Workflow** | [View workflow](https://github.com/ZainabMaher/Zainab-Ai-Automation-Cource-Portfolio/tree/main/02-System%20Thinking/Course-Project/Screenshots) |
+| **Repository** | [GitHub repo](https://github.com/ZainabMaher/exact-render-studio-47) |
 ---
 
 ## 👩‍💻 Author
