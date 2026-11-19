@@ -222,13 +222,17 @@ Interactive Canvas / High-Resolution PNG / Portable JSON Export
 
 An infinite visual workspace in English and Arabic, with light / dark themes, full node type palettes, customizable board backgrounds, and unified account management.
 
-![Final Result](Screenshots/final-result.png)
+![Final Result](Screenshots
+/Final_Result_Atlas.png
+)
 
 ### Workflow
 
 `Add Element` → `Define Archetype & Details` → `Connect & Assign Relationship` → `Automatic Local / Cloud Save` → `Export`
 
-![Workflow](Screenshots/workflow.png)
+![Workflow](Screenshots
+/workflow.png
+)
 
 ---
 
@@ -271,9 +275,8 @@ If I continued developing this project, I would:
 | | |
 |---|---|
 | **Live Demo** | [Open the app](https://visual-style-snapshot.lovable.app) |
-| **Workflow** | [View workflow](Screenshots/workflow.png)|
-| **Repository** | [GitHub repo](PASTE-REPO-LINK-HERE) |
-
+| **Workflow** | [View workflow](Screenshots/workflow.png) |
+| **Repository** | [GitHub repo](https://github.com/ZainabMaher/visual-style-snapshot) |
 ---
 
 ## 👩‍💻 Author
